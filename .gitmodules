@@ -1,6 +1,5 @@
 [submodule "ReNaPoC"]
-	path = ReNaPoC
+
 	url = https://github.com/Laughing6901/ReactNativePoC.git
 [submodule "react-poc"]
-	path = react-poc
 	url = https://github.com/Laughing6901/react-PoC.git
